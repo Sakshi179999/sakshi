@@ -373,6 +373,23 @@ main {
     font-family: text-fonts;
     font-size: 0.8rem;
 }
+.end-btn{
+    height: 33.33%;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+.end-btn div{
+    border: 1px solid rgba(255,77,0);
+    width: fit-content;
+    padding: 0.5rem 1rem;
+    font-family: text-fonts;
+    font-size: 0.8rem;
+    margin-left:10px;
+}
+
+
+
 
 .second {
     background-image: url(images/ideas-2.webp);
